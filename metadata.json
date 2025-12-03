@@ -1,0 +1,7 @@
+{
+  "name": "ObraSync",
+  "description": "A comprehensive construction site management PWA for tracking issues, managing workflow between engineering and field teams, and monitoring project progress.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
